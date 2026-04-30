@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: bd1c7dc46c48c0743b4aacd78431df0f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 955655649712189952
+    second: Speekee1_0
+  - first:
+      213: 1682872800747725932
+    second: Speekee1_1
+  - first:
+      213: -3427947544224475976
+    second: Speekee1_2
+  - first:
+      213: -2081113422691608252
+    second: Speekee1_3
+  - first:
+      213: -8171641655576659220
+    second: Speekee1_4
+  - first:
+      213: 8070680277960863651
+    second: Speekee1_5
+  - first:
+      213: -8105127409377795808
+    second: Speekee1_6
+  - first:
+      213: -1265777831427791694
+    second: Speekee1_7
+  - first:
+      213: 1017266677739557917
+    second: Speekee1_8
+  - first:
+      213: 6028258831717722704
+    second: Speekee1_9
+  - first:
+      213: 2140524142212838335
+    second: Speekee1_10
+  - first:
+      213: 5491227842178042523
+    second: Speekee1_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Speekee1_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1469
+        width: 510
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002b0b800cb234d00800000000000000
+      internalID: 955655649712189952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speekee1_1
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1470
+        width: 506
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c642cb265e3ca5710800000000000000
+      internalID: 1682872800747725932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speekee1_2
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1465
+        width: 510
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4d3dddedb7d60d0800000000000000
+      internalID: -3427947544224475976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speekee1_3
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 1469
+        width: 506
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4495b274e566e13e0800000000000000
+      internalID: -2081113422691608252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speekee1_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 749
+        width: 514
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea719f953f789e80800000000000000
+      internalID: -8171641655576659220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speekee1_5
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 749
+        width: 513
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afab97d3f0d00070800000000000000
+      internalID: 8070680277960863651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speekee1_6
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 749
+        width: 510
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02121c0609dc48f80800000000000000
+      internalID: -8105127409377795808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speekee1_7
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 749
+        width: 517
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4ae29c4cd0f6ee0800000000000000
+      internalID: -1265777831427791694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speekee1_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 29
+        width: 498
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14128857ae0e1e00800000000000000
+      internalID: 1017266677739557917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speekee1_9
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 29
+        width: 502
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a65a6e77da8a350800000000000000
+      internalID: 6028258831717722704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speekee1_10
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 29
+        width: 506
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb37eb9cd5ba4bd10800000000000000
+      internalID: 2140524142212838335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speekee1_11
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 29
+        width: 498
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ac1c1f0a2c43c40800000000000000
+      internalID: 5491227842178042523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Speekee1_0: 955655649712189952
+      Speekee1_1: 1682872800747725932
+      Speekee1_10: 2140524142212838335
+      Speekee1_11: 5491227842178042523
+      Speekee1_2: -3427947544224475976
+      Speekee1_3: -2081113422691608252
+      Speekee1_4: -8171641655576659220
+      Speekee1_5: 8070680277960863651
+      Speekee1_6: -8105127409377795808
+      Speekee1_7: -1265777831427791694
+      Speekee1_8: 1017266677739557917
+      Speekee1_9: 6028258831717722704
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
